@@ -1,8 +1,8 @@
-# 🔍 YOLOv8 Object Detection — Streamlit Web App
+# YOLOv8 Object Detection: Streamlit Web App
 
 A production-ready object detection web app built with **YOLOv8n** fine-tuned on the COCO128 dataset, deployed on Streamlit Community Cloud.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](YOUR_APP_URL_HERE)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://object-detection-yolov8-jtevawqgzdmizdp65qkhvz.streamlit.app/)
 
 ---
 
