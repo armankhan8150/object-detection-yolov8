@@ -1,0 +1,17 @@
+YOLO Object Detection — Submission Links
+=============================================
+
+Public App URL:
+  https://YOUR-APP-NAME.streamlit.app
+  (Replace with your actual Streamlit Cloud URL after deployment)
+
+GitHub Repository:
+  https://github.com/armankhan8150/yolo-object-detection
+  (Push your code to this repo, then update URL here)
+
+Training Notebook:
+  training/yolo_training.ipynb — includes all 25 epochs + final mAP50
+
+Screenshots:
+  screenshots/screenshot_1_welcome.png
+  screenshots/screenshot_2_detection.png
